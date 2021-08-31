@@ -7,7 +7,8 @@
 Explore US bikeshare data
 
 ### Description
-User interactive program that calculates statistics and filters the US bikeshare dataset to analyze
+User interactive program that calculates statistics to analyze
+and explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
 python file used.
