@@ -12,6 +12,9 @@ and explore data related to bike share systems for three major cities in the Uni
 
 ### Files used
 python file used.
+Washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
