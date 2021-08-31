@@ -7,10 +7,10 @@
 Explore US bikeshare data
 
 ### Description
-User interactive program that calculates statistics and filters the US bikeshare dataset to analyze 
+User interactive program that calculates statistics and filters the US bikeshare dataset to analyze
 
 ### Files used
-Include the files used
+python file used.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
