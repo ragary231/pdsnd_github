@@ -4,10 +4,10 @@
 31st August 2021
 
 ### Project Title
-Explore US bikeshare data 
+Explore US bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+User interactive program that calculates statistics and filters the US bikeshare dataset to analyze 
 
 ### Files used
 Include the files used
